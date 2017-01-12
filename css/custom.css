@@ -1,0 +1,31 @@
+/* your styles go here */
+
+.techheading{
+  text-align: center;
+  padding-top: 0;
+}
+
+.footermessage{
+  text-align: center;
+  font-size: 20px;
+}
+
+.footermessage2{
+  text-align: center;
+  font-size: 20px;
+}
+.signature{
+  text-align: center;
+}
+
+#page2{
+  padding-top: 80px;
+}
+
+.thumbnails{
+padding-bottom: 10px;
+padding-right: 5px;
+height: 150px;
+width: 200px;
+
+}
